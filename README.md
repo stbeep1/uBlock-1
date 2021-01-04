@@ -8,7 +8,7 @@ uBlock Origin
 </h1>
 <p align="center">
 <sup> <!-- Pronounciation -->
-      读作 <i>you-block</i> (<code>/ˈjuːˌblɒk/</code>) — <i>你</i> 来决定什么可以进入浏览器。
+      读作 <i>you-block</i> (<code>/ˈjuːˌblɒk/</code>) — <i>讓你</i> 来决定什么可以进入浏览器。
 </sup>
 <br>
 </p>
@@ -16,12 +16,12 @@ uBlock Origin
 **支持多浏览器的高效过滤工具，快速、有效且简洁。**&nbsp;&nbsp;[<img src="https://travis-ci.org/gorhill/uBlock.svg?branch=master" height="12">](https://travis-ci.org/gorhill/uBlock)
 
 * [文档](#文档)
-* [用途和常规信息](#基础介绍)
+* [用途和基础信息](#基础介绍)
 * [性能和运行效率](#性能比较)
   * [内存占用](#内存占用)
   * [CPU 占用](#cpu-占用)
   * [屏蔽能力](#屏蔽能力)
-  * [快速测试](#快速测试)
+  * [测试](#快速测试)
 * [安装](#安装)
   * [Chromium](#chromium)
   * [Firefox](#firefox)
